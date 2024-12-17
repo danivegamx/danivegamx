@@ -7,7 +7,7 @@ I'm a *software engineer* with 10+ years of experience. TBH I have gone through 
 - 🌱 I’m currently learning Cloud Technologies
 - 💬 Ask me about anything. We can google together
 - 📫 How to reach me: @danivegamx, ingdanivega@gmail.com
-- 😄 Pronouns: What?
+- 😄 Pronouns: he/him
 
 <!--
 **danivegamx/danivegamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
